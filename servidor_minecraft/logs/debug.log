@@ -873,3 +873,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31May2025 04:26:29.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gendryck078 has made the advancement [Ol' Betsy]
 [31May2025 04:26:33.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gendryck078 has made the advancement [Take Aim]
 [31May2025 04:26:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Survival Mode]
+[31May2025 04:27:17.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 has completed the challenge [Cover Me in Debris]
+[31May2025 04:27:26.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:27:26.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:27:54.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 was burned to a crisp while fighting Gendryck078
+[31May2025 04:30:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Gave 1 [Netherite Sword] to Heberon156]
+[31May2025 04:30:12.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied enchantment Sharpness V to Heberon156's item]
+[31May2025 04:30:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Gave 1 [Netherite Sword] to Heberon156]
+[31May2025 04:31:18.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set Gendryck078's game mode to Survival Mode]
+[31May2025 04:31:39.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 was burned to a crisp while fighting Gendryck078
+[31May2025 04:32:00.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 was shot by Gendryck078
+[31May2025 04:32:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gendryck078 has completed the challenge [Cover Me in Debris]
+[31May2025 04:32:26.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:32:26.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:35:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied enchantment Mending to Heberon156's item]
+[31May2025 04:36:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied enchantment Unbreaking III to Heberon156's item]
+[31May2025 04:37:26.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:37:26.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:37:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set the time to 1000]
+[31May2025 04:38:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 100 is higher than the maximum level of 5 supported by that enchantment
+[31May2025 04:38:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gendryck078: Set own game mode to Creative Mode]
+[31May2025 04:39:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Spectator Mode]
+[31May2025 04:39:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Creative Mode]
+[31May2025 04:39:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Spectator Mode]
+[31May2025 04:39:32.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Creative Mode]
+[31May2025 04:40:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Survival Mode]
+[31May2025 04:40:45.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 has made the advancement [Diamonds!]
+[31May2025 04:40:56.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gendryck078 has made the advancement [Diamonds!]
+[31May2025 04:41:58.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied enchantment Efficiency V to Heberon156's item]
+[31May2025 04:42:26.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 04:42:26.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 04:42:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Creative Mode]
+[31May2025 04:43:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set 12 experience points on 2 players]
+[31May2025 04:43:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set own game mode to Survival Mode]
+[31May2025 04:43:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set 12 experience points on 2 players]
+[31May2025 04:44:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 was slain by Gendryck078
+[31May2025 04:44:51.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 fell from a high place
+[31May2025 04:44:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gendryck078: Teleported Gendryck078 to Heberon156]
+[31May2025 04:45:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gendryck078: Teleported Heberon156 to Gendryck078]
+[31May2025 04:46:01.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied effect Speed to Heberon156]
+[31May2025 04:46:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied effect Speed to Heberon156]
+[31May2025 04:46:33.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied effect Speed to Heberon156]
+[31May2025 04:46:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied effect Speed to Heberon156]
