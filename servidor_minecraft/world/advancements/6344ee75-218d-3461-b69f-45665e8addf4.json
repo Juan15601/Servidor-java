@@ -8,7 +8,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-31 00:55:15 +0000",
-      "minecraft:forest": "2025-05-31 00:55:24 +0000"
+      "minecraft:forest": "2025-05-31 00:55:24 +0000",
+      "minecraft:sparse_jungle": "2025-05-31 04:02:51 +0000",
+      "minecraft:river": "2025-05-31 04:02:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-31 04:03:24 +0000",
+      "minecraft:windswept_savanna": "2025-05-31 04:02:49 +0000",
+      "minecraft:plains": "2025-05-31 04:04:17 +0000"
     },
     "done": false
   },
@@ -718,9 +723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-05-31 04:10:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-31 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-05-31 04:10:04 +0000"
     },
     "done": true
   },

@@ -86,3 +86,33 @@
 [31May2025 04:04:19.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
 [31May2025 04:04:51.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gendryck078> hace tp
 [31May2025 04:05:01.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Teleported Gendryck078 to Heberon156]
+[31May2025 04:09:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:15.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:15.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Summoned new Ender Dragon]
+[31May2025 04:09:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 fell out of the world
+[31May2025 04:09:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Teleported Heberon156 to Gendryck078]
+[31May2025 04:10:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Set spawn point to -318, 123, 80 [0.0] in minecraft:overworld for 2 players]
+[31May2025 04:11:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gendryck078 was killed
+[31May2025 04:11:02.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heberon156 was killed
+[31May2025 04:11:02.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Killed 227 entities]
+[31May2025 04:13:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Applied effect Night Vision to 2 targets]
+[31May2025 04:14:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:ambient.warped_forest.loop to 2 players]
+[31May2025 04:14:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:ambient.warped_forest.loop to 2 players]
+[31May2025 04:14:47.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:ambient.warped_forest.mood to 2 players]
+[31May2025 04:15:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:ambient.warped_forest.mood to 2 players]
+[31May2025 04:15:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:ambient.warped_forest.mood to 2 players]
+[31May2025 04:15:48.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:56.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:57.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:block.note_block.imitate.creeper to 2 players]
+[31May2025 04:15:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heberon156> t
+[31May2025 04:16:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Gendryck078 a server operator
+[31May2025 04:16:55.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gendryck078: Played sound minecraft:ambient.cave to Gendryck078]
+[31May2025 04:17:00.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heberon156: Played sound minecraft:entity.dragon_fireball.explode to 2 players]
