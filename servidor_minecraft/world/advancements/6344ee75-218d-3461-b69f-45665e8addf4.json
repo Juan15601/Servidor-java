@@ -723,6 +723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 04:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-05-31 04:10:04 +0000"
