@@ -507,10 +507,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 01:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-05-31 01:03:05 +0000",
       "cooked_mutton": "2025-05-31 01:03:51 +0000",
+      "cooked_beef": "2025-05-31 01:05:14 +0000",
       "beef": "2025-05-31 01:03:25 +0000"
     },
     "done": false
@@ -524,6 +531,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-31 01:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 01:06:24 +0000"
     },
     "done": true
   },
